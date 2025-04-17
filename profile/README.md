@@ -1,4 +1,4 @@
-# [![Towards the Cloud banner](../image/gh-banner-org.png)](https://towardsthecloud.com/solutions/aws-landing-zone)
+# [![Towards the Cloud banner](../image/github-title-banner.png)](https://towardsthecloud.com)
 
 At Towards the Cloud, our mission goes beyond just providing AWS infrastructure. We enable organizations to achieve their product goals while we eliminate the complexities of Cloud architecture and delivery.
 
