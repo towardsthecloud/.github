@@ -1,16 +1,16 @@
 # [![Towards the Cloud banner](../image/github-title-banner.png)](https://towardsthecloud.com)
 
-**[Towards the Cloud](https://towardsthecloud.com/about) eliminates AWS complexity so you ship faster, cut costs by 30%, and become compliant.**
+**[Towards the Cloud](https://towardsthecloud.com/about) eliminates AWS complexity so you ship faster with confidence, cut costs by 30%, and become compliant.**
 
 Sounds too good to be true? **We'll assess your AWS account for free and report exactly where you stand**. You''ll receive a report with security findings and optimization opportunities. After that you can decide whether to fix these findings yourself or let us handle it. No strings attached.
 
-<a href="https://cal.com/towardsthecloud/aws-account-review><img alt="Book a Free AWS account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
+<a href="https://cal.com/towardsthecloud/aws-account-review"><img alt="Book a Free AWS account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
 
 Or read on to discover in detail how we eliminate AWS complexity through proven Infrastructure as Code patterns, security guardrails, and ongoing optimization...
 
 ---
 
-## The Problem: AWS Complexity Builds Faster Than You Realize
+## AWS Complexity Builds Faster Than You Realize
 
 AWS is easy to get started with, but without proper security guardrails and Infrastructure as Code best practices, it becomes complex fast. What starts as a simple deployment quickly spirals into a mess that's costing you in ways you might not even realize.
 
@@ -23,7 +23,7 @@ AWS is easy to get started with, but without proper security guardrails and Infr
 
 ---
 
-## Our Solution: Proper AWS Foundation So Your Team Can Ship Features
+## We Provide You With an AWS Foundation So You Deploy Faster with Confidence
 
 We solve this by implementing the security guardrails and Infrastructure as Code best practices your team needs from day one, **giving you back control and visibility** while eliminating the complexity that's slowing you down.
 
@@ -37,9 +37,10 @@ We solve this by implementing the security guardrails and Infrastructure as Code
 
 *View our [public roadmap](https://github.com/towardsthecloud/aws-cdk-landing-zone-roadmap?tab=readme-ov-file#features) for all included features*
 
-### 🚀 **Ongoing: You Ship Faster on AWS**
+### 🚀 **Ongoing: You Ship with Confidence**
 **We provide production-ready tools that eliminate infrastructure work:**
-- ✅ **Security-hardened AWS CDK components** your team can deploy confidently
+- ✅ **Off-the-shelf compliant CDK components** to develop quicker without reinventing the wheel
+- ✅ **Complete CI/CD pipelines with IaC** so you deploy more frequently because of easy rollbacks
 - ✅ **AWS best practices guidance** via Slack/Teams to prevent costly mistakes
 - ✅ **Architecture reviews** that eliminate tech debt before it starts
 
@@ -75,4 +76,4 @@ Get a **detailed AWS infrastructure analysis** for free. We'll thoroughly review
 
 You decide whether you want our help or handle it internally, no obligations. Either way, you'll have a clear path forward to make improvements.
 
-<a href="https://cal.com/towardsthecloud/aws-account-review><img alt="Book a Free AWS Account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
+<a href="https://cal.com/towardsthecloud/aws-account-review"><img alt="Book a Free AWS Account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
