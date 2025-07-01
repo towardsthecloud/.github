@@ -2,7 +2,7 @@
 
 **[Towards the Cloud](https://towardsthecloud.com/about) eliminates AWS complexity so you ship faster with confidence, cut costs by 30%, and become compliant.**
 
-Sounds too good to be true? **We'll assess your AWS account for free and report exactly where you stand**. You''ll receive a report with security findings and optimization opportunities. After that you can decide whether to fix these findings yourself or let us handle it. No strings attached.
+Sounds too good to be true? **We'll assess your AWS account for free and report exactly where you stand**. You''ll receive a report with security findings and cost optimization opportunities. After that you can decide whether to fix these findings yourself or let us handle it. No strings attached.
 
 <a href="https://cal.com/towardsthecloud/aws-account-review"><img alt="Book a Free AWS account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
 
@@ -60,7 +60,7 @@ We solve this by implementing the security guardrails and Infrastructure as Code
 
 **Don't just take our word for it.**
 
-Here's how we delivered these exact results for a [Y Combinator startup called Accolade to achieve perfect security scores and accelerate SOC 2 certification](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade):
+Y Combinator startup Accolade's founder explains how our AWS Foundation Service including the Landing Zone [accelerated their SOC 2 certification](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade):
 
 *"Danny's solution and AWS expertise stood out with comprehensive accelerators, documentation, and clearly articulated design principles. **We achieved a perfect security score in days, not months.**"*
 
@@ -68,11 +68,11 @@ Here's how we delivered these exact results for a [Y Combinator startup called A
 
 ---
 
-## See It For Yourself -> Request a Free Infrastructure Review
+## See It For Yourself → Request a Free Infrastructure Review
 
 **We're so confident in this approach that we'll prove it works for you.**
 
-Get a **detailed AWS infrastructure analysis** for free. We'll thoroughly review your setup, identify security gaps and cost optimization opportunities, then show you exactly how our proven system solves these issues.
+Get a **detailed AWS Account review** for free. We'll thoroughly analyze your setup, identify security gaps and cost optimization opportunities, then show you exactly how our proven system solves these issues.
 
 You decide whether you want our help or handle it internally, no obligations. Either way, you'll have a clear path forward to make improvements.
 
