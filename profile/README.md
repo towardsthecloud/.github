@@ -4,7 +4,7 @@
 
 Sounds too good to be true? **We'll assess your AWS account for free and report exactly where you stand**. You''ll receive a report with security findings and optimization opportunities. After that you can decide whether to fix these findings yourself or let us handle it. No strings attached.
 
-<a href="https://cal.com/towardsthecloud/aws-infrastructure-review"><img alt="Book a Free AWS account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
+<a href="https://cal.com/towardsthecloud/aws-account-review><img alt="Book a Free AWS account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
 
 Or read on to discover in detail how we eliminate AWS complexity through proven Infrastructure as Code patterns, security guardrails, and ongoing optimization...
 
@@ -75,4 +75,4 @@ Get a **detailed AWS infrastructure analysis** for free. We'll thoroughly review
 
 You decide whether you want our help or handle it internally, no obligations. Either way, you'll have a clear path forward to make improvements.
 
-<a href="https://cal.com/towardsthecloud/aws-infrastructure-review"><img alt="Book a Free AWS Account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
+<a href="https://cal.com/towardsthecloud/aws-account-review><img alt="Book a Free AWS Account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
