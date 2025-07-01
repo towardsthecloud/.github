@@ -1,6 +1,6 @@
 # [![Towards the Cloud banner](../image/github-title-banner.png)](https://towardsthecloud.com)
 
-**[Towards the Cloud](https://towardsthecloud.com/about) eliminates AWS complexity so your developers ship 3x faster while cutting cloud costs by 30%, all for less than one senior AWS hire.**
+**[Towards the Cloud](https://towardsthecloud.com/about) eliminates AWS complexity so your developers can focus on building features while cutting cloud costs by 30% and making you compliant and audit-ready.**
 
 Sounds too good to be true? **We'll assess your AWS account for free and report exactly where you stand**. You''ll receive a report with security findings and optimization opportunities. After that you can decide whether to fix these findings yourself or let us handle it. No strings attached.
 
@@ -37,7 +37,7 @@ We solve this by implementing the security guardrails and Infrastructure as Code
 
 *View our [public roadmap](https://github.com/towardsthecloud/aws-cdk-landing-zone-roadmap?tab=readme-ov-file#features) for all included features*
 
-### 🚀 **Ongoing: Your Developers Ship 3x Faster**
+### 🚀 **Ongoing: Your Developers Ship faster on AWS**
 **We provide production-ready tools that eliminate infrastructure work:**
 - ✅ **Security-hardened AWS CDK components** your team can deploy confidently
 - ✅ **AWS best practices guidance** via Slack/Teams to prevent costly mistakes
@@ -52,7 +52,7 @@ We solve this by implementing the security guardrails and Infrastructure as Code
 ---
 
 ## Partner With Us to Save Costs and Become Compliant
-- **We Handle the Complex Stuff**: Your AWS costs drop 30-40% while we manage optimization, security updates, and infrastructure complexity
+- **We Handle the Complex Stuff**: Your AWS costs drop 30% on average ([up to 60% in documented cases](https://towardsthecloud.com/services/aws-cost-optimization#case-study)) while we manage optimization, security updates, and infrastructure complexity
 - **Stay Compliant Automatically**: Maintain SOC 2, HIPAA, and other certifications with quarterly reviews and automatic security patches - no surprises during audits
 - **Your Developers Focus on Revenue**: We guide your team to build better infrastructure patterns, so they spend more time shipping features that grow your business
 - **Fractional Cloud Engineer**: Get expert AWS guidance for a fraction of full-time engineer costs - [flexible monthly retainer](https://towardsthecloud.com/pricing) you can pause anytime (though we're confident you'll stay for the value)
@@ -71,7 +71,7 @@ Here's how we delivered these exact results for a [Y Combinator startup called A
 
 **We're so confident in this approach that we'll prove it works for you.**
 
-Get a **free AWS infrastructure review** with no strings attached. We'll analyze your setup, identify security gaps and cost optimization opportunities, then show you exactly how our system solves these issues faster.
+Get a **detailed AWS infrastructure analysis** for free. We'll thoroughly review your setup, identify security gaps and cost optimization opportunities, then show you exactly how our proven system solves these issues.
 
 You decide whether you want our help or handle it internally, no obligations. Either way, you'll have a clear path forward to make improvements.
 
