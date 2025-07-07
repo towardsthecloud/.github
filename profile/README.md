@@ -25,7 +25,9 @@ AWS is easy to get started with, but without proper security guardrails and Infr
 
 ## We provide a complete package, so you deploy faster with confidence on AWS Cloud
 
-We solve this by implementing the security guardrails and Infrastructure as Code best practices your team needs from day one, **giving you back control and visibility** while eliminating the complexity that's slowing you down.
+Our system consists of 5 integrated tools and services that implement the security guardrails and Infrastructure as Code best practices your team needs from day one. This approach gives you back control and visibility while eliminating the complexity that's slowing you down.
+
+Here's exactly what each tool and service provides:
 
 - ✅ **[Compliant multi-account Landing Zone](https://towardsthecloud.com/services/aws-landing-zone)**:
   - Provisions AWS accounts with security guardrails out of the box - 100% [CIS benchmark compliant](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html)
