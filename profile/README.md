@@ -2,7 +2,7 @@
 
 **[Towards the Cloud](https://towardsthecloud.com/about) is an AWS cloud consultancy for startups and growing companies. We provide managed services that help you build faster, optimize costs, and maintain control over security and compliance as you scale.**
 
-**Free AWS Account Assessment.** Get a detailed report with security findings and cost optimization opportunities. Fix them yourself or let us handle it. No strings attached.
+**Not sure where your AWS setup stands?** Get a free assessment with detailed security findings and cost optimization opportunities. You'll see exactly what needs fixing—handle it yourself or let us help. No strings attached.
 
 <a href="https://cal.com/towardsthecloud/aws-account-review"><img alt="Book a Free AWS account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
 
