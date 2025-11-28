@@ -24,10 +24,10 @@ These are all symptoms of a missing AWS foundation. Without it, your developers 
 [*"We achieved a perfect security score in days, not months."*](https://towardsthecloud.com/blog/case-study-accolade)
 — Galen Simmons, CEO, Accolade (Y Combinator Startup)
 
-### Start with a Free Assessment
+### Book a Free Discovery Call
 
-We'll analyze your AWS setup and deliver a detailed report: current security posture, cost optimization opportunities, and compliance gaps. You'll see exactly where you stand and what fixing it looks like.
+See exactly how we take ownership of your AWS foundation. We'll walk you through our Landing Zone, CI/CD pipelines, and IaC component library to show how your team can ship faster and more securely.
 
 No commitment required.
 
-<a href="https://towardsthecloud.com/#cta"><img alt="Get Your Free AWS Assessment" src="https://img.shields.io/badge/Get%20Your%20Free%20AWS%20Assessment-success.svg?style=for-the-badge"/></a>
+<a href="https://towardsthecloud.com/#cta"><img alt="Book a Free Demo" src="https://img.shields.io/badge/Book%20a%20Free%20Demo-success.svg?style=for-the-badge"/></a>
