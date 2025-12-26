@@ -1,5 +1,9 @@
 # [![Towards the Cloud banner](../image/github-title-banner.png)](https://towardsthecloud.com)
 
+**Towards the Cloud is an AWS Cloud Agency for startups and growing companies looking to build faster while cutting costs and accelerate their compliance.**
+
+---
+
 AWS starts simple. As you scale, technical debt compounds. Production and staging environments blur together. Resources multiply without clear ownership. IAM policies accumulate exceptions. Security findings pile up in backlogs. The AWS bill climbs month after month.
 
 These are all symptoms of a missing AWS foundation. Without it, your developers spend more time fixing problems than shipping features that drive business growth.
