@@ -32,4 +32,4 @@ AWS starts simple. Then you scale: environments blur together, resources multipl
 
 See how we take ownership of your AWS foundation. We'll walk you through the AWS CDK Landing Zone, our CI/CD pipelines, and the IaC library.
 
-<a href="https://towardsthecloud.com/#cta"><img alt="Book a Free Demo" src="https://img.shields.io/badge/Book%20a%20Free%20Demo-success.svg?style=for-the-badge"/></a>
+<a href="https://towardsthecloud.com/services/aws-cdk-landing-zone#cta"><img alt="Book a Free Demo" src="https://img.shields.io/badge/Book%20a%20Free%20Demo-success.svg?style=for-the-badge"/></a>
