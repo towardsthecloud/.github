@@ -10,7 +10,7 @@ AWS starts simple. As you scale, technical debt compounds, environments blur, re
 
 ## Here's How We Do It
 
-**1. Secure [AWS CDK Landing Zone](https://towardsthecloud.com/services/aws-landing-zone) That Accelerates Compliance**
+**1. Secure [AWS CDK Landing Zone](https://towardsthecloud.com/services/aws-cdk-landing-zone) That Accelerates Compliance**
 
 - Multi-account architecture with security controls and compliance guardrails from day one
 - 100% on [CIS AWS Foundations](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html) and 96% on [AWS Security Best Practices](https://docs.aws.amazon.com/securityhub/latest/userguide/fsbp-standard.html), mapping directly to **SOC 2**, **HIPAA**, and **PCI-DSS**, cutting months from compliance
